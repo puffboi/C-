@@ -1,2 +1,2 @@
 # C-
-A repository for all my C++ projects
+A repository for all my C and C++ projects
